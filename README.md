@@ -7,6 +7,7 @@
 ## Executive Deliverables
 * [Watch Executive Presentation Pitch (YouTube)](https://youtu.be/hy1SaLd7ASA)
 * [Download Full RFP Consulting Proposal (PDF)](RFP_Proposal_Final.pdf)
+* [Download Application User Interface Assets (ZIP)](Sample%20App%20User%20Interface.zip)
 
 ---
 
@@ -18,13 +19,11 @@ Our team designed Longevity, an AI-powered, cloud-hosted SaaS/PaaS platform that
 ---
 
 ## User Interface Design & Application Interface
-
-### Student Application Interface
 Designed around the primary user experience, featuring a welcome interface, Career Readiness Score, upcoming task milestones, interactive roadmaps, and career matching navigation.
 
-## User Interface Design & Application Interface
-
 * [Download Application User Interface Assets (ZIP)](Sample%20App%20User%20Interface.zip)
+
+---
 
 ## Technical Role & Core Contributions
 **Primary Role:** Data Modeler & Lead UI Designer (Cross-Functional Systems Analyst)
