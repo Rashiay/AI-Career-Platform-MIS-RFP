@@ -1,5 +1,3 @@
-# AI-Career-Platform-MIS-RFP
-2nd Place Capstone RFP Proposal ($10M Tech Investment) for an AI-Powered Education-to-Career Platform (ISM 4113)
 # Longevity — AI-Powered Education-to-Career Platform
 **Awarded 2nd Place out of 12 Consulting Teams | $10M Simulated RFP Engagement**  
 *ISM 4113: Systems Analysis & Design Capstone | Florida State University*
@@ -7,9 +5,8 @@
 ---
 
 ## Executive Deliverables
-* [Watch Executive Presentation Pitch (YouTube)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_ID_HERE)
+* [Watch Executive Presentation Pitch (YouTube)](https://youtu.be/hy1SaLd7ASA)
 * [Download Full RFP Consulting Proposal (PDF)](RFP_Proposal_Final.pdf)
-* [View Executive 3-Minute Pitch Script (PDF)](Presentation_Script.pdf)
 
 ---
 
@@ -20,26 +17,12 @@ Our team designed Longevity, an AI-powered, cloud-hosted SaaS/PaaS platform that
 
 ---
 
-## User Interface Design & Systems Mockups
+## User Interface Design & Application Interface
 
-### 1. Student Dashboard
-Designed around the primary user experience, featuring a welcome interface, Career Readiness Score, upcoming task milestones, and centralized navigation.
+### Student Application Interface
+Designed around the primary user experience, featuring a welcome interface, Career Readiness Score, upcoming task milestones, interactive roadmaps, and career matching navigation.
 
-![Student Dashboard Mockup](Student_Dashboard.png)
-
----
-
-### 2. Five-Phase Career Roadmap
-Visual milestone tracker taking students through five core phases: Discover, Plan, Develop, Connect, and Launch.
-
-![Career Roadmap Mockup](Career_Roadmap.png)
-
----
-
-### 3. Career Opportunities & Job Matching
-Match-percentage interface displaying salary ranges, skill gap analysis, internship applications, and AI career recommendations.
-
-![Career Opportunities Mockup](Career_Opportunities.png)
+![Application Interface Mockup](App_Interface_UI.png)
 
 ---
 
