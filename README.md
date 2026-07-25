@@ -1,6 +1,6 @@
 # Longevity — AI-Powered Education-to-Career Platform
 **Awarded 2nd Place out of 12 Consulting Teams | $10M Simulated RFP Engagement**  
-*ISM 4113: Systems Analysis & Design Capstone | Florida State University*
+*ISM 4113: Systems Analysis & Design | Florida State University*
 
 ---
 
